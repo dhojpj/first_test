@@ -4,12 +4,11 @@ using namespace std;
 
 int main()
 {
-    // this edit was on my iPad using Textastic (did it work???)
-    // because I did not modify it directly (Working Copy app)
-    
-    // this is Firefox
-    
-    cout << "Hello World!" << endl;
+    // this edit was done on Qt Creator on PC
+
+
+
+    cout << "Hello Qt Creator!" << endl;
     return 0;
 }
 
