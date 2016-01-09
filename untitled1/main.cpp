@@ -6,11 +6,13 @@ int main()
 {
     // this edit was done on Qt Creator on PC
     cout << "Hello Qt Creator!" << endl;
+   
+       // this edit was on Working Copy!
+    cout << "Hello Working Copy!" << endl;   
     
     // this edit was done using Textastic with Working Copy as the repository
-    cout << "Hello Working Copy!\nTextastic!" << endl;
-    // for some reason Working Copy cannot add text to the files -- it's purely a repository (i.e. it just stores files)
-    
+    cout << "Hello Textastic!" << endl;
+       
     return 0;
 }
 
