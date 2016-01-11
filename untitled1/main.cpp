@@ -12,6 +12,9 @@ int main()
     
     // this edit was done using Textastic with Working Copy as the repository
     cout << "Hello Textastic!" << endl;
+    
+    // this edit was done on iPad Textastic
+    cout << "Hello again!" << endl;
        
     return 0;
 }
